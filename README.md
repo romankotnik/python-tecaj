@@ -1,3 +1,3 @@
 # python-tecaj
 python tecaj
-PRiprava
+Priprava
